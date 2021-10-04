@@ -7,4 +7,4 @@ Currently I'm working on an article "*On the complexity of transformation of rev
 
 ##### Info
 * Email: ddtarski [at] gmail.com ; you may also write at my tilde mail: lyubaevd [at] tilde.club
-* [CV]()
+* [CV](https://raw.githubusercontent.com/ddtarski/ddtarski/main/Lyubaev_cv.pdf)
