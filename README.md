@@ -6,5 +6,5 @@ My general interests are theoretical computer science (especially automata theor
 Currently I'm working on an article "*On the complexity of transformation of reversible two-way finite automata to one-way deterministic finite automata*" under [Alexander Okhotin](https://users.math-cs.spbu.ru/~okhotin/) supervising.
 
 #### Info
-* Email: ddtarski [at] gmail.com ; you may also write at my tilde mail: lyubaevd [at] tilde.club
+* Email: lyubaevda@gmail.com
 * [CV](https://raw.githubusercontent.com/ddtarski/ddtarski/main/Lyubaev_cv.pdf)
