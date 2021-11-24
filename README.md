@@ -1,7 +1,7 @@
 #### Hi!
 I'm a Math & CS student at the [Department of Mathematics and Computer Science](http://math-cs.spbu.ru/) of [St. Petersburg State University](http://www.spbu.ru/).
 
-My general interest is programming. I love Kotlin with Android, also Python and C++.
+My main interest is programming. I love Kotlin with Android, also Python and C++.
 
 #### Info
 * Email: lyubaevda@gmail.com
