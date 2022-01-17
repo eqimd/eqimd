@@ -7,5 +7,5 @@ My main interest is programming. I love Kotlin with Android, also Python and C++
 * Email: lyubaevda@gmail.com
 * [CV](https://raw.githubusercontent.com/ddtarski/ddtarski/main/Lyubaev_cv.pdf)
 
-I'm also interested at TCS, especially automata theory, cryptography.
+I'm also interested at TCS, especially automata theory.
 Currently I'm working on the article "*Transforming reversible two-way finite automata to one-way deterministic*" under [Alexander Okhotin](https://users.math-cs.spbu.ru/~okhotin/) supervising.
