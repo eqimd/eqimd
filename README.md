@@ -3,7 +3,7 @@ I'm a Math & CS student at the [Department of Mathematics and Computer Science](
 
 My main interest is programming. I love Kotlin with Android, also Python and C++. Some of my apps you may find in repositories.
 
-I'm also interested at TCS, especially automata theory.
+I'm also interested at TCS, especially automata theory, cryptography.
 
 #### Info
 * Email: lyubaevda@gmail.com
